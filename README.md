@@ -1,1 +1,1 @@
-# repositroy_git 1..2..3..6666
+# repositroy_git 1..2..3..5..6..
